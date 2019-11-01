@@ -109,8 +109,8 @@ creative_commons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 #scheme: Gemini
 
 
@@ -126,7 +126,7 @@ scheme: Pisces
 # External url should start with http:// or https://
 menu:
   home: / || home
-#  about: /about/ || user
+  #  about: /about/ || user
   tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
@@ -147,8 +147,8 @@ menu_settings:
 
 sidebar:
   # Sidebar Position.
-  position: left
-#  position: right
+  #  position: left
+  position: right
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
@@ -440,7 +440,7 @@ font:
   global:
     external: true
     family: Lato
-    size: 0.9
+    size:
 
   # Font settings for site title (.site-title).
   title:
@@ -458,13 +458,13 @@ font:
   posts:
     external: true
     family:
-    size: 0.5
+    size:
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
     family:
-    size: 0.7
+    size:
 
 
 # ---------------------------------------------------------------
@@ -546,7 +546,7 @@ pjax: true
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox
-fancybox: false
+fancybox: true
 
 # A JavaScript library for zooming images like Medium.
 # Do not enable both `fancybox` and `mediumzoom`.

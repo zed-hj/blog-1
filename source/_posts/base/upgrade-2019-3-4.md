@@ -1,8 +1,8 @@
 ---
-title: 日常开发 - 2019年3月4日
+title: 日常踩坑 - 2019年3月4日
 date: 2019/3/4 23:59:00
 
-categories: up
+categories: upgrade
 tags:
     - mq
     - hook
