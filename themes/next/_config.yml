@@ -109,8 +109,8 @@ creative_commons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 #scheme: Gemini
 
 
@@ -127,7 +127,7 @@ scheme: Mist
 menu:
   home: / || home
   #  about: /about/ || user
-  tags: /tags/ || tags
+  # tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
@@ -147,8 +147,8 @@ menu_settings:
 
 sidebar:
   # Sidebar Position.
-  #  position: left
-  position: right
+  position: left
+#  position: right
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320

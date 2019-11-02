@@ -3,7 +3,7 @@ title: 使用策略模式代替if
 date: 2019/4/30 21:14:00
 
 categories: 
-  - divide and rule
+  - 分而治之
 ---
 
 **业务场景:**
