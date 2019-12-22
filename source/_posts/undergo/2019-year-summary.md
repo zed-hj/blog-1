@@ -55,11 +55,13 @@ kubectl logs -f --tail=200 -lk8s-app=uaa | -C20 'Exception'
 
 Jhipster 搭建通用技术架构。
 
-阿里云云效、流水线、托管版K8s搭建 CI/CD 环境。
+阿里云云效、流水线、托管版K8s搭建 CI/CD 环境
 
-前端项目容器化部署，静态资源托管到七牛云、阿里云OSS。
+前端项目容器化部署，静态资源托管到七牛云、阿里云OSS
 
-Mysql、Redis、RocketMQ 全部使用阿里云产品(我们没有运维)。
+SpringSecurity OAuth2 集成其他登陆方式
+
+Mysql、Redis、RocketMQ 全部使用阿里云产品(我们没有运维)
 
 以此为基石在此之上专注业务逻辑实现。
 
