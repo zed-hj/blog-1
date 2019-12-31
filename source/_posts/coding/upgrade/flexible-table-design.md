@@ -262,3 +262,5 @@ public interface OrderMapper extends EntityMapper<OrderDTO, Order> {
 - @Mapping(componentModel = "spring", uses = {FeatureUtil.class})
 - @Mapping(target = "feature", qualifiedBy = FeatureToJson.class)
 - @Mapping(target = "feature", qualifiedBy = FeatureToMap.class)
+
+[github](https://github.com/no-today/examples-spring-boot/tree/master/flexible-table-design)
