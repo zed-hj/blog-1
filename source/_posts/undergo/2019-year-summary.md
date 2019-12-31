@@ -61,7 +61,7 @@ Jhipster 搭建通用技术架构。
 
 SpringSecurity OAuth2 集成其他登陆方式
 
-Mysql、Redis、RocketMQ 全部使用阿里云产品(我们没有运维)
+Mysql、Redis、RocketMQ 全部使用阿里云产品(没有运维岗)
 
 以此为基石在此之上专注业务逻辑实现。
 
