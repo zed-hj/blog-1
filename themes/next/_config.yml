@@ -188,7 +188,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink.
 # Value after `||` delimiter is the name of Font Awesome icon. If icon (with or without delimiter) is not specified, globe icon will be loaded.
 social:
-  github: https://github.com/gitchenge || github
+  github: https://github.com/no-today || github
   email: mailto:no.today@outlook.com || envelope
   twitter: https://twitter.com/no_today0 || twitter
 
