@@ -46,7 +46,7 @@ categories:
 
 新的工作人员更少, 在之前的工作里架构是 BOSS 搭好(Jhipster通用微服务架构), K8s、阿里云流水线都搭好, 说到底我只需要创建 feature 分支, 实现功能, Review 代码, 点一下运行流水线自动部署即可, 一切环境都是搭好的, 而现在... 啥都没有了, 只能靠自己搭建环境。
 
-业务人员比较少, 系统比较复杂, 我习惯性的引入了跟前公司一样的技术栈: Spring Cloud + Docker + K8s。
+由于人员比较少, 系统比较复杂。为了良好的可扩展性和方便部署, 我习惯性的引入了跟前公司一样的技术栈: Spring Cloud + Docker + K8s。
 
 ![](http://cdn.talei.me/blog/undergo/2019/pipeline-list.jpg)
 
